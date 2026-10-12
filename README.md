@@ -18,7 +18,7 @@
   <details>
 <summary>$\color{#FFFFFF}{\textsf{ㅤㅤㅤㅤㅤ੭﹕﹒　　About me !ㅤㅤㅤㅤㅤ}}$</summary>
     <br>
-    <p align="center">
+    <div align="center">
     $${\color{#7d7d7d} ㅤsealand　　or　 　peter.}$$
     <br>
       $${\color{#7d7d7d}he / him　;　it / it’s ㅤㅤ}$$
@@ -28,7 +28,7 @@
     <br>
   </tr>
    </td>
-  </p>
+  </div>
   </details>
 <br>
 <br>
@@ -36,7 +36,7 @@
 
 
 
-  <div align="center">
-    <br>
-    <img src="https://github.com/user-attachments/assets/65abf643-4b49-49b0-9577-30e4372cf9bd" width="30%" />
-  </div>
+<p align="center">
+  <br>
+  <img src="https://github.com/user-attachments/assets/65abf643-4b49-49b0-9577-30e4372cf9bd" width="30%" />
+</p>
