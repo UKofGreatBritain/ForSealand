@@ -16,7 +16,7 @@
    <br>
 <br>
   <details>
-<summary>$\color{#FDF1F3}{\textsf{ㅤㅤㅤㅤㅤ੭﹕﹒　　About me !ㅤㅤㅤㅤㅤ}}$</summary>
+<summary>$\color{#FFFFFF}{\textsf{ㅤㅤㅤㅤㅤ੭﹕﹒　　About me !ㅤㅤㅤㅤㅤ}}$</summary>
     <br>
     <p align="center">
     $${\color{#7d7d7d} ㅤsealand　　or　 　peter.}$$
@@ -26,17 +26,13 @@
       $${\color{#7d7d7d}₊ ⊹ㅤ  :bubbles:　‘　minor ,　adults 　iwcaution.}$$
 　　
     <br>
-
   </tr>
    </td>
   </p>
-    
-
-
   </details>
 <br>
 <br>
-
+<br>
 
 
   <p align="center">
