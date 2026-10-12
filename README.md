@@ -35,7 +35,8 @@
 <br>
 
 
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/65abf643-4b49-49b0-9577-30e4372cf9bd" width="30%" />
 
-</p>
+  <div align="center">
+    <br>
+    <img src="https://github.com/user-attachments/assets/65abf643-4b49-49b0-9577-30e4372cf9bd" width="30%" />
+  </div>
