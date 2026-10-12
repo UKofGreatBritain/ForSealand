@@ -12,7 +12,8 @@
   
  <tr>
  <td>
-   
+
+   <br>
 <br>
   <details>
 <summary>$\color{#FDF1F3}{\textsf{ㅤㅤㅤㅤㅤ੭﹕﹒　　About me !ㅤㅤㅤㅤㅤ}}$</summary>
@@ -20,22 +21,25 @@
     <p align="center">
     $${\color{#7d7d7d} ㅤsealand　　or　 　peter.}$$
     <br>
-$${\color{#7d7d7d}he / him　;　it / it’s ㅤㅤ}$$
+      $${\color{#7d7d7d}he / him　;　it / it’s ㅤㅤ}$$
     <br>
-$${\color{#7d7d7d}₊ ⊹ㅤ  :bubbles:　‘　minor ,　adults 　iwcaution.}$$
+      $${\color{#7d7d7d}₊ ⊹ㅤ  :bubbles:　‘　minor ,　adults 　iwcaution.}$$
 　　
     <br>
 
   </tr>
    </td>
-   </p>
+  </p>
     
 
 
   </details>
 <br>
 <br>
+
+
+
   <p align="center">
-<img src="https://github.com/user-attachments/assets/65abf643-4b49-49b0-9577-30e4372cf9bd" width="50%" />
+    <img src="https://github.com/user-attachments/assets/65abf643-4b49-49b0-9577-30e4372cf9bd" width="30%" />
 
 </p>
