@@ -69,9 +69,18 @@
       $${\color{#7d7d7d}> maga / trump lickers ㅤㅤ}$$
     <br>
       $${\color{#7d7d7d}> slur spammers ,}$$
+      <br>
+          <a href="https://dni-criteria.carrd.co/" target="_blank">basicdni ‘s</a>
 　　
     <br>
   </tr>
   </td>
   </div>
   </details>
+<br>
+  <br>
+　　
+　　
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1399ea14-19ed-49a0-98bf-65367de945e2" width="80%" />
+</p>
