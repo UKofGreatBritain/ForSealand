@@ -87,16 +87,9 @@
 <br>
 <br>
 
-<p align="center">
-<a href="https://principalitysealand.straw.page/">
-  <img src="https://github.com/user-attachments/assets/c8557e34-14ce-4392-8434-bb68dc7bc591" alt="Strawpage" width="25%" >
-  　　
-</a>
-<a href="https://discordid.netlify.app/?id=1343098164915474593">
-  <img src="https://github.com/user-attachments/assets/0ea189c0-70a1-4879-bab8-d69eed19ad21" alt="Discord" width="20%" >
-</a>
-
-  <a href="https://sealand.atabook.org/">
-  <img src="https://github.com/user-attachments/assets/d2c0750c-f2a1-4fa6-a830-e70518a2bed0" alt="ATAbook" width="20%" >
-</a>
+<p align="center">⠀
+ <a href="https://principalitysealand.straw.page/"> <img src="https://github.com/user-attachments/assets/c8557e34-14ce-4392-8434-bb68dc7bc591" alt="sign ata!" width="220"></a>　　　
+<a href="https://discordid.netlify.app/?id=1343098164915474593"> <img src="https://github.com/user-attachments/assets/0ea189c0-70a1-4879-bab8-d69eed19ad21" alt="sign ata!" width="130"></a>　　　
+  <a href="https://sealand.atabook.org/"> <img src="https://github.com/user-attachments/assets/d2c0750c-f2a1-4fa6-a830-e70518a2bed0" alt="sign ata!" width="130"></a> 
+</p>
 </p>
