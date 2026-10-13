@@ -25,6 +25,8 @@
       $${\color{#7d7d7d}he / him　;　it / it’s ㅤㅤ}$$
     <br>
       $${\color{#7d7d7d}₊ ⊹ㅤ  :bubbles:　‘　minor ,　adults 　iwcaution.}$$
+      <br>
+          <a href="https://dni-criteria.carrd.co/" target="_blank">basicdni ‘s</a>
 　　
     <br>
   </tr>
@@ -59,4 +61,17 @@
 
 <h5 align="right">
   <details>
-<summary>$\color{#97B1D4}{\textsf{ㅤㅤㅤㅤㅤ INTERACTㅤ.ᐟ.ᐟㅤㅤㅤㅤㅤ}}$</summary>
+<summary>$\color{#FFFFFF}{\textsf{ㅤㅤㅤㅤㅤ DNI LIST ! 　.♯┆ㅤㅤㅤㅤㅤ}}$</summary>
+<br>
+    <div align="center">
+    $${\color{#7d7d7d} > proshippers - darkshippers 　,　neon@zi’s . }$$
+    <br>
+      $${\color{#7d7d7d}> maga / trump lickers ㅤㅤ}$$
+    <br>
+      $${\color{#7d7d7d}> slur spammers ,}$$
+　　
+    <br>
+  </tr>
+  </td>
+  </div>
+  </details>
