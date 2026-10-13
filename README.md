@@ -2,6 +2,8 @@
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ada0afb4-21f7-497a-b1a9-f023e4150cad" width="100%" />
+<br>
+  ⋅˚₊‧ ଳ ‧₊˚ ⋅
 </p>
 
 <br>
@@ -26,7 +28,6 @@
     <br>
       $${\color{#7d7d7d}₊ ⊹ㅤ  :bubbles:　‘　minor ,　adults 　iwcaution.}$$
       <br>
-          <a href="https://dni-criteria.carrd.co/" target="_blank">basicdni ‘s</a>
 　　
     <br>
   </tr>
@@ -90,6 +91,6 @@
 <p align="center">⠀
  <a href="https://principalitysealand.straw.page/"> <img src="https://github.com/user-attachments/assets/c8557e34-14ce-4392-8434-bb68dc7bc591" alt="sign ata!" width="220"></a>　　　
 <a href="https://discordid.netlify.app/?id=1343098164915474593"> <img src="https://github.com/user-attachments/assets/0ea189c0-70a1-4879-bab8-d69eed19ad21" alt="sign ata!" width="130"></a>　　　
-  <a href="https://sealand.atabook.org/"> <img src="https://github.com/user-attachments/assets/d2c0750c-f2a1-4fa6-a830-e70518a2bed0" alt="sign ata!" width="130"></a> 
+  <a href="https://sealand.atabook.org/"> <img src="https://github.com/user-attachments/assets/d2c0750c-f2a1-4fa6-a830-e70518a2bed0" alt="sign ata!" width="200"></a> 
 </p>
 </p>
