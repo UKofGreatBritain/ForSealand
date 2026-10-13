@@ -2,7 +2,6 @@
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ada0afb4-21f7-497a-b1a9-f023e4150cad" width="100%" />
-
 </p>
 
 <br>
@@ -10,13 +9,15 @@
 </p>
 
   
- <tr>
- <td>
-
-   <br>
-<br>
+<tr>
+<td>
+  <br>
+  <br>
+  <br>
+　　
+　　
   <details>
-<summary>$\color{#FFFFFF}{\textsf{ㅤㅤㅤㅤㅤ੭﹕﹒　　About me !ㅤㅤㅤㅤㅤ}}$</summary>
+    <summary>$\color{#FFFFFF}{\textsf{ㅤㅤㅤㅤㅤ੭﹕﹒　　About me !ㅤㅤㅤㅤㅤ}}$</summary>
     <br>
     <div align="center">
     $${\color{#7d7d7d} ㅤsealand　　or　 　peter.}$$
@@ -27,16 +28,35 @@
 　　
     <br>
   </tr>
-   </td>
+  </td>
   </div>
   </details>
 <br>
 <br>
-<br>
 
 
-
+  <br>
+　　
+　　
 <p align="center">
   <br>
-  <img src="https://github.com/user-attachments/assets/65abf643-4b49-49b0-9577-30e4372cf9bd" width="30%" />
+  <img src="https://github.com/user-attachments/assets/8ac99b23-c008-47c9-8702-33b44c9e74c1" width="30%" />
 </p>
+<br>
+　　
+　　
+</p>
+<br>
+<p align="center"><img src="https://github.com/user-attachments/assets/7559824d-8b50-4d05-ab65-cba200f846b1"  align="right" width="27%" /></p>
+
+<br>
+<br>
+　　
+　　
+<p align="right">
+<td>
+<tr>
+
+<h5 align="right">
+  <details>
+<summary>$\color{#97B1D4}{\textsf{ㅤㅤㅤㅤㅤ INTERACTㅤ.ᐟ.ᐟㅤㅤㅤㅤㅤ}}$</summary>
