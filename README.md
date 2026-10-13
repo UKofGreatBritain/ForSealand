@@ -64,11 +64,11 @@
 <summary>$\color{#FFFFFF}{\textsf{ㅤㅤㅤㅤㅤ DNI LIST ! 　.♯┆ㅤㅤㅤㅤㅤ}}$</summary>
 <br>
     <div align="center">
-    $${\color{#7d7d7d} > proshippers - darkshippers 　,　neon@zi’s . }$$
+    $${\color{#7d7d7d} proshippers - darkshippers 　,　neon@zi’s . }$$
     <br>
-      $${\color{#7d7d7d}> maga / trump lickers ㅤㅤ}$$
+      $${\color{#7d7d7d} maga / trump lickers ㅤㅤ}$$
     <br>
-      $${\color{#7d7d7d}> slur spammers ,}$$
+      $${\color{#7d7d7d} slur spammers ,}$$
       <br>
           <a href="https://dni-criteria.carrd.co/" target="_blank">basicdni ‘s</a>
 　　
